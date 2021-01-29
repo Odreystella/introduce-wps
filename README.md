@@ -1,5 +1,10 @@
 # introduce-wps
 
+## bong7233
+- username: bong7233
+- goal: Get a job
+- say something: Study or sleep
+
 ## Sungsoo
 
 - username: ssungs
@@ -25,3 +30,4 @@
 - username : jung
 - goal : git 정복
 - say something : I will work hard
+
