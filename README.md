@@ -1,5 +1,11 @@
 # introduce-wps
 
+## Sungsoo
+
+- username: ssungs
+- goal: Got job
+- say something: Keep going!!
+
 ## JH.KIM
 
 - username: @JuHyeong-K
