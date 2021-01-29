@@ -1,6 +1,13 @@
 # introduce-wps
 
+## ckswhd7774
+
+- username:ckswhd7774
+- goal: Became a Developer
+- sya something:
+
 ## bong7233
+
 - username: bong7233
 - goal: Get a job
 - say something: Study or sleep
@@ -30,4 +37,3 @@
 - username : jung
 - goal : git 정복
 - say something : I will work hard
-
